@@ -1,0 +1,16 @@
+<!doctype index.html>
+<index.html>
+    <head>
+<title>first independent code</title>
+    </head> 
+    <body>
+        <h1><strong>Bombdiggety</strong><br>My first independent code</h1>
+        <p>I am quite pleased to say that after studying really<br> 
+            hard <em> I am confident</em> that I will succeed at learning this.</p><br>
+            <p>
+                <img id="memeimage"
+                src="C:\Users\herba\OneDrive - UAT\Desktop\funny meme.jpg">
+
+            </p>
+    </body>
+</html>
