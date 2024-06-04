@@ -1,0 +1,24 @@
+<!doctype boards.html>
+<!-- reshawner benjamin -->
+<boards.html>
+    <!-- we just descibed what type of doc this is -->
+    <head>
+        <!-- main page section -->
+<title>Round 2</title>
+
+   <!-- This is an HTML comment --> </head> 
+    <body>
+        <h1>I am on a roll!</h1>
+        <p>I am quite pleased to say that after studying really<br> 
+            hard I am confident that I will succeed at learning this.</p><br>
+            <p>
+                <!-- There is not a specific ojective page for AI at this time-->
+                TECHNOLOGY STUDIES DEGREE OBJECTIVES
+Demonstrate the ability to analyze and act on creative and entrepreneurial processes of technological innovation.
+Demonstrate the ability to forecast and act upon potential impacts of nascent and emerging technologies in ways that benefit organizations, governments and individuals.
+ 
+Meet four approved objectives from other UAT undergraduate degree programs.
+<!-- This is an HTML comment -->
+            </p>
+    </body>
+</html>
