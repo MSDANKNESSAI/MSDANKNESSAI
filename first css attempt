@@ -1,0 +1,12 @@
+p { background-color: Blue
+    color:Forest green
+    <nav>height:6000px width:200px <float-Left>
+         <padding:5px></padding:5p> 
+        line height:30px
+         <textalignment>center</textalignment>
+            <margin>right</margin>
+            <img #memeimage="200"px>
+            
+       </float-Left></nav>
+       <h1> text:center</h1>
+    }
